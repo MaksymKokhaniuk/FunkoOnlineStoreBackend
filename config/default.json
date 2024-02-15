@@ -1,0 +1,12 @@
+{
+    "dbConfig": {
+        "host":"localhost",
+        "user":"root",
+        "password":"root",
+        "port":8889,
+        "multipleStatements": true,
+        "database":"FunkoApp",
+        "timezone":"utc+2:00",
+        "charset":"utf8mb4"
+    }
+}
